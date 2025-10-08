@@ -7,7 +7,7 @@ This project aims to apply what you have learned in input and output management.
 Implement a text editor that can read, write, update, and delete a file using stdin and stdout.
 
 ## Implementation
-- The program should allow users to create a new file, read the content, write new content, and delete the file.
+The program should allow users to create a new file, read the content, write new content, and delete the file.
 
 > The program will use stdin for receiving user commands and input data, and stdout for displaying confirmation messages and errors.
 
