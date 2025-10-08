@@ -4,15 +4,14 @@
 This project aims to apply what you have learned in input and output management.
 
 ## Problem
-Write a program that works with an input-output device.
+Implement a text editor that can read, write, update, and delete a file using stdin and stdout.
 
 ## Implementation
-- Ask a user to insert his information (name, age, and gender) using `stdin` (keyboard).
-- Store the user information in a file.
+- The program should allow users to create a new file, read the content, write new content, and delete the file.
 
-## Submission 
+> The program will use stdin for receiving user commands and input data, and stdout for displaying confirmation messages and errors.
+
+## Submission
 - Fork the project and add your code to it.
 - Submit a pull request when you complete the project.
 - Create an issue of your questions if you face any trouble solving the project.
-
-
